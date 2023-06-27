@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://github.com/Mayankgupta1803/Mayankgupta1803/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 <h3 align="center">I'm Passionate about Business Analytics</h3>
 <img align="right" alt="Data Analysis" width="400" src="https://i0.wp.com/marketreserach167078276.files.wordpress.com/2022/04/mar.gif?ssl=1?ssl=1?ssl=1?">
