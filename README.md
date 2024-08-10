@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as **Data Analyst**
 
-- 🌱 I’m currently learning **Business Analytics, Data Analytics, Business Intelligence(Power BI)**
+- 🌱 I’m currently working as **Business Analyst Intern**
 
 - 💬 Ask me about **SQL, Power BI DAX, Excel, Microsoft SQL Server, Python, Data Analysis, Business Analysis**
 
