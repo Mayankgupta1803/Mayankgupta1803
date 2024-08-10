@@ -4,11 +4,11 @@
 <img align="right" alt="Data Analysis" width="400" src="https://i0.wp.com/marketreserach167078276.files.wordpress.com/2022/04/mar.gif?ssl=1?ssl=1?ssl=1?">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankgupta1803&label=Profile%20views&color=0e75b6&style=flat" alt="mayankgupta1803" /> </p>
 
-- 🔭 I’m currently working as **HR Executive**
+- 🔭 I’m currently working as **Data Analyst**
 
 - 🌱 I’m currently learning **Business Analytics, Data Analytics, Business Intelligence(Power BI)**
 
-- 💬 Ask me about **SQL, Power BI DAX, Excel, Microsoft SQL Server, Python, Data Analysis, Business Analysis, Recruitment**
+- 💬 Ask me about **SQL, Power BI DAX, Excel, Microsoft SQL Server, Python, Data Analysis, Business Analysis**
 
 - 📫 How to reach me **mayankgup.731@gmail.com**
 
