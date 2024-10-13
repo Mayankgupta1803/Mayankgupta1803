@@ -12,6 +12,26 @@
 
 - 📫 How to reach me **mayankgup.731@gmail.com**
 
+- <p>👋 Hi, I'm Mayank Gupta — a passionate MIS Executive and aspiring Data Analyst with a strong foundation in Python, SQL, and data analysis. I enjoy solving real-world problems using data and developing innovative solutions.</p><br><br>
+
+- <p>💼 Currently: MIS Executive at Pace 360 </p>
+- <p>🎓 Education: Bachelor of Commerce (Mathematics and Finance) from the University of Delhi </p>
+- <p>📊 Experience:<br>
+               Business Analyst Intern at Reyedin Techstack Pvt. Ltd.<br>
+               Data Science Intern at Devtown</p>
+
+<p>🔧 Skills:<br>
+Languages: Python, SQL<br>
+Data Analysis: Excel, Power BI, Tableau<br>
+Other Tools: MongoDB, Git</p><br>
+
+<p>🔍 Key Projects<br>
+Retail Sales Performance Reporting<br>
+Consumer Goods Domain Insights<br>
+Hospitality Booking Insights</p><br>
+
+<p>🚀 What Excites Me: Leveraging data for business insights and contributing to innovative projects like those at Google.</p><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mayankgupta18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankgupta18/" height="30" width="40" /></a>
