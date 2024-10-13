@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Mayankgupta1803/Mayankgupta1803/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">I'm Passionate about Business Analytics</h3>
+<h3 align="center">I'm Passionate about Analyst</h3>
 <img align="right" alt="Data Analysis" width="400" src="https://i0.wp.com/marketreserach167078276.files.wordpress.com/2022/04/mar.gif?ssl=1?ssl=1?ssl=1?">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankgupta1803&label=Profile%20views&color=0e75b6&style=flat" alt="mayankgupta1803" /> </p>
 
