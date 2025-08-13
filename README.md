@@ -1,22 +1,21 @@
 ![MasterHead](https://github.com/Mayankgupta1803/Mayankgupta1803/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">I'm Passionate about Analyst</h3>
+<h3 align="center">I'm Passionate about Data Analysis and making its Pipeline and Automate the process.</h3>
 <img align="right" alt="Data Analysis" width="400" src="https://i0.wp.com/marketreserach167078276.files.wordpress.com/2022/04/mar.gif?ssl=1?ssl=1?ssl=1?">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankgupta1803&label=Profile%20views&color=0e75b6&style=flat" alt="mayankgupta1803" /> </p>
 
 
 - <p>👋 Hi, I'm Mayank Gupta — a passionate and aspiring Data Analyst with a strong foundation in Python, SQL, and data analysis. I enjoy solving real-world problems using data and developing innovative solutions.</p><br><br>
 
-- <p>💼 Currently: MIS Executive at Pace 360 </p>
+- <p>💼 Currently: Data Analyst at Pocketful (Fintech Startup). </p>
 - <p>🎓 Education: Bachelor of Commerce (Mathematics and Finance) from the University of Delhi </p>
 - <p>📊 Experience:<br>
-               Business Analyst Intern at Reyedin Techstack Pvt. Ltd.<br>
-               Data Science Intern at Devtown</p>
+               Business Analyst Intern at Orangus<br></p>
 
 - <p>🔧 Skills:<br>
-             -  Languages: Python, SQL<br>
+             -  Languages: Python, SQL, MLops, Pyspark, DataBricks <br>
              -  Data Analysis: Excel, Power BI, Tableau<br>
-             -  Other Tools: Flask, Git</p><br>
+             -  Other Tools: Machine Learning, Flask, Git, Version Control</p><br>
 
 - <p>🔍 Key Projects<br>
              -  Retail Sales Performance Reporting<br>
