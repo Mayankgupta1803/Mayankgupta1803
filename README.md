@@ -10,10 +10,12 @@
 - <p>💼 Currently: Data Analyst at Pocketful (Fintech Startup). </p>
 - <p>🎓 Education: Bachelor of Commerce (Mathematics and Finance) from the University of Delhi </p>
 - <p>📊 Experience:<br>
+               Data Analyst at Pocketful<br>
+                <br>
                Business Analyst Intern at Orangus<br></p>
 
 - <p>🔧 Skills:<br>
-             -  Languages: Python, SQL, MLops, Pyspark, DataBricks <br>
+             -  Languages: Python, SQL, Airflow, Pyspark <br>
              -  Data Analysis: Excel, Power BI, Tableau<br>
              -  Other Tools: Machine Learning, Flask, Git, Version Control</p><br>
 
